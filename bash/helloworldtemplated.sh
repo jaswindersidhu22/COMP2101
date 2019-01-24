@@ -1,4 +1,4 @@
-#!/bin/#!/usr/bin/env bash
+#!/bin/bash
 #My first script - helloworldtemplated.#!/bin/sh
 cat <<EOF
 Hello World!
